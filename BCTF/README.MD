@@ -1,4 +1,4 @@
-第一次玩CTF，我知道这个ctf时候日子有些迟了，做了一道web Checkin
+好长时间没玩CTF了，我知道这个ctf时候日子有些迟了，做了一道web Checkin
 
 第一次打开这个页面时候我有些熟悉这不是 materializecss 样式吗，简单的注册 和 登录
 
